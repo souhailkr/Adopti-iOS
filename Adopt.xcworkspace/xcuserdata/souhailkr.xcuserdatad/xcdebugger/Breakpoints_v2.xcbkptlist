@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Adopt/DetailsController.swift"
+            timestampString = "566407065.503805"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "DetailsController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adopt.DetailsController.imageDict2.getter : Swift.String"
+                  moduleName = "Adopt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/souhailkr/Documents/Adopt/Adopt/DetailsController.swift"
+                  timestampString = "566407065.8933769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adopt.DetailsController.imageDict2.setter : Swift.String"
+                  moduleName = "Adopt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/souhailkr/Documents/Adopt/Adopt/DetailsController.swift"
+                  timestampString = "566407065.905921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adopt.DetailsController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Adopt.DetailsController"
+                  moduleName = "Adopt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/souhailkr/Documents/Adopt/Adopt/DetailsController.swift"
+                  timestampString = "566407065.917876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1360">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adopt.DetailsController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Adopt.DetailsController&gt;"
+                  moduleName = "Adopt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/souhailkr/Documents/Adopt/Adopt/DetailsController.swift"
+                  timestampString = "566407065.928242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1325">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
